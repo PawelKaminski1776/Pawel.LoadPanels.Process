@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "BowlingSys.Process.Controllers.BowlingSysController",
+    "Method": "CheckLogin",
+    "RelativePath": "Api/Panels/LoadBowlingPanels",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "username",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

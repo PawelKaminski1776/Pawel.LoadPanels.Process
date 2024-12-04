@@ -1,0 +1,31 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "Pawel.LoadPanels.Process",
+    "version": "1.0"
+  },
+  "paths": {
+    "/Api/Panels/LoadBowlingPanels": {
+      "get": {
+        "tags": [
+          "BowlingSys"
+        ],
+        "parameters": [
+          {
+            "name": "username",
+            "in": "query",
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "Success"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}

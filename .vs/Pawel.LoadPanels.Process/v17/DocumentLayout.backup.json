@@ -1,0 +1,246 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{25903C83-6DC3-4DF1-9BA8-F20DEE01A578}|Pawel.LoadPanels.Controllers\\Pawel.LoadPanels.Controllers.csproj|c:\\users\\pawel\\documents\\pawel.loadpanels.process\\pawel.loadpanels.controllers\\controllers\\viewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25903C83-6DC3-4DF1-9BA8-F20DEE01A578}|Pawel.LoadPanels.Controllers\\Pawel.LoadPanels.Controllers.csproj|solutionrelative:pawel.loadpanels.controllers\\controllers\\viewscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F907CAF1-221E-4E3E-97E4-06E9F5554A76}|Pawel.LoadPanels.Process\\Pawel.LoadPanels.Process.csproj|c:\\users\\pawel\\documents\\pawel.loadpanels.process\\pawel.loadpanels.process\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F907CAF1-221E-4E3E-97E4-06E9F5554A76}|Pawel.LoadPanels.Process\\Pawel.LoadPanels.Process.csproj|solutionrelative:pawel.loadpanels.process\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E298411E-F76A-4F2B-AEC6-10369710011B}|Pawel.LoadPanels.DBConnect\\Pawel.LoadPanels.DBConnect.csproj|c:\\users\\pawel\\documents\\pawel.loadpanels.process\\pawel.loadpanels.dbconnect\\services\\viewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E298411E-F76A-4F2B-AEC6-10369710011B}|Pawel.LoadPanels.DBConnect\\Pawel.LoadPanels.DBConnect.csproj|solutionrelative:pawel.loadpanels.dbconnect\\services\\viewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE54E79-E151-4C8F-BC3B-A5A929B43298}|Pawel.LoadPanels.Handlers\\Pawel.LoadPanels.Handlers.csproj|c:\\users\\pawel\\documents\\pawel.loadpanels.process\\pawel.loadpanels.handlers\\handlers\\viewshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FAE54E79-E151-4C8F-BC3B-A5A929B43298}|Pawel.LoadPanels.Handlers\\Pawel.LoadPanels.Handlers.csproj|solutionrelative:pawel.loadpanels.handlers\\handlers\\viewshandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A91442E-44C2-4606-A370-0E901E2A51C6}|Pawel.LoadPanels.Entities\\Pawel.LoadPanels.Entities.csproj|c:\\users\\pawel\\documents\\pawel.loadpanels.process\\pawel.loadpanels.entities\\entities\\viewdbentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2A91442E-44C2-4606-A370-0E901E2A51C6}|Pawel.LoadPanels.Entities\\Pawel.LoadPanels.Entities.csproj|solutionrelative:pawel.loadpanels.entities\\entities\\viewdbentities.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E298411E-F76A-4F2B-AEC6-10369710011B}|Pawel.LoadPanels.DBConnect\\Pawel.LoadPanels.DBConnect.csproj|c:\\users\\pawel\\documents\\pawel.loadpanels.process\\pawel.loadpanels.dbconnect\\dbconnect\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E298411E-F76A-4F2B-AEC6-10369710011B}|Pawel.LoadPanels.DBConnect\\Pawel.LoadPanels.DBConnect.csproj|solutionrelative:pawel.loadpanels.dbconnect\\dbconnect\\dbconnect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25903C83-6DC3-4DF1-9BA8-F20DEE01A578}|Pawel.LoadPanels.Controllers\\Pawel.LoadPanels.Controllers.csproj|c:\\users\\pawel\\documents\\pawel.loadpanels.process\\pawel.loadpanels.controllers\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25903C83-6DC3-4DF1-9BA8-F20DEE01A578}|Pawel.LoadPanels.Controllers\\Pawel.LoadPanels.Controllers.csproj|solutionrelative:pawel.loadpanels.controllers\\controllers\\basecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60181A7-161A-413D-94AA-6B7C9301823D}|Pawel.LoadPanels.Contracts\\Pawel.LoadPanels.Contracts.csproj|c:\\users\\pawel\\documents\\pawel.loadpanels.process\\pawel.loadpanels.contracts\\viewdtos\\viewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E60181A7-161A-413D-94AA-6B7C9301823D}|Pawel.LoadPanels.Contracts\\Pawel.LoadPanels.Contracts.csproj|solutionrelative:pawel.loadpanels.contracts\\viewdtos\\viewdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F907CAF1-221E-4E3E-97E4-06E9F5554A76}|Pawel.LoadPanels.Process\\Pawel.LoadPanels.Process.csproj|c:\\users\\pawel\\documents\\pawel.loadpanels.process\\pawel.loadpanels.process\\pawel.loadpanels.process.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F907CAF1-221E-4E3E-97E4-06E9F5554A76}|Pawel.LoadPanels.Process\\Pawel.LoadPanels.Process.csproj|solutionrelative:pawel.loadpanels.process\\pawel.loadpanels.process.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E60181A7-161A-413D-94AA-6B7C9301823D}|Pawel.LoadPanels.Contracts\\Pawel.LoadPanels.Contracts.csproj|c:\\users\\pawel\\documents\\pawel.loadpanels.process\\pawel.loadpanels.contracts\\pawel.loadpanels.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E60181A7-161A-413D-94AA-6B7C9301823D}|Pawel.LoadPanels.Contracts\\Pawel.LoadPanels.Contracts.csproj|solutionrelative:pawel.loadpanels.contracts\\pawel.loadpanels.contracts.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAE54E79-E151-4C8F-BC3B-A5A929B43298}|Pawel.LoadPanels.Handlers\\Pawel.LoadPanels.Handlers.csproj|c:\\users\\pawel\\documents\\pawel.loadpanels.process\\pawel.loadpanels.handlers\\pawel.loadpanels.handlers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{FAE54E79-E151-4C8F-BC3B-A5A929B43298}|Pawel.LoadPanels.Handlers\\Pawel.LoadPanels.Handlers.csproj|solutionrelative:pawel.loadpanels.handlers\\pawel.loadpanels.handlers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25903C83-6DC3-4DF1-9BA8-F20DEE01A578}|Pawel.LoadPanels.Controllers\\Pawel.LoadPanels.Controllers.csproj|c:\\users\\pawel\\documents\\pawel.loadpanels.process\\pawel.loadpanels.controllers\\pawel.loadpanels.controllers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{25903C83-6DC3-4DF1-9BA8-F20DEE01A578}|Pawel.LoadPanels.Controllers\\Pawel.LoadPanels.Controllers.csproj|solutionrelative:pawel.loadpanels.controllers\\pawel.loadpanels.controllers.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E298411E-F76A-4F2B-AEC6-10369710011B}|Pawel.LoadPanels.DBConnect\\Pawel.LoadPanels.DBConnect.csproj|c:\\users\\pawel\\documents\\pawel.loadpanels.process\\pawel.loadpanels.dbconnect\\pawel.loadpanels.dbconnect.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E298411E-F76A-4F2B-AEC6-10369710011B}|Pawel.LoadPanels.DBConnect\\Pawel.LoadPanels.DBConnect.csproj|solutionrelative:pawel.loadpanels.dbconnect\\pawel.loadpanels.dbconnect.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A91442E-44C2-4606-A370-0E901E2A51C6}|Pawel.LoadPanels.Entities\\Pawel.LoadPanels.Entities.csproj|c:\\users\\pawel\\documents\\pawel.loadpanels.process\\pawel.loadpanels.entities\\pawel.loadpanels.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2A91442E-44C2-4606-A370-0E901E2A51C6}|Pawel.LoadPanels.Entities\\Pawel.LoadPanels.Entities.csproj|solutionrelative:pawel.loadpanels.entities\\pawel.loadpanels.entities.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Process\\Program.cs",
+              "RelativeDocumentMoniker": "Pawel.LoadPanels.Process\\Program.cs",
+              "ToolTip": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Process\\Program.cs",
+              "RelativeToolTip": "Pawel.LoadPanels.Process\\Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:47:37.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseController.cs",
+              "DocumentMoniker": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Controllers\\Controllers\\BaseController.cs",
+              "RelativeDocumentMoniker": "Pawel.LoadPanels.Controllers\\Controllers\\BaseController.cs",
+              "ToolTip": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Controllers\\Controllers\\BaseController.cs",
+              "RelativeToolTip": "Pawel.LoadPanels.Controllers\\Controllers\\BaseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:58:37.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Pawel.LoadPanels.Process.csproj",
+              "DocumentMoniker": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Process.csproj",
+              "RelativeDocumentMoniker": "Pawel.LoadPanels.Process\\Pawel.LoadPanels.Process.csproj",
+              "ToolTip": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Process.csproj",
+              "RelativeToolTip": "Pawel.LoadPanels.Process\\Pawel.LoadPanels.Process.csproj",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABMAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T22:46:20.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DBConnect.cs",
+              "DocumentMoniker": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.DBConnect\\DBConnect\\DBConnect.cs",
+              "RelativeDocumentMoniker": "Pawel.LoadPanels.DBConnect\\DBConnect\\DBConnect.cs",
+              "ToolTip": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.DBConnect\\DBConnect\\DBConnect.cs",
+              "RelativeToolTip": "Pawel.LoadPanels.DBConnect\\DBConnect\\DBConnect.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAawBEAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T23:03:39.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ViewService.cs",
+              "DocumentMoniker": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.DBConnect\\Services\\ViewService.cs",
+              "RelativeDocumentMoniker": "Pawel.LoadPanels.DBConnect\\Services\\ViewService.cs",
+              "ToolTip": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.DBConnect\\Services\\ViewService.cs",
+              "RelativeToolTip": "Pawel.LoadPanels.DBConnect\\Services\\ViewService.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAwBUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T23:04:41.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ViewDBEntities.cs",
+              "DocumentMoniker": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Entities\\Entities\\ViewDBEntities.cs",
+              "RelativeDocumentMoniker": "Pawel.LoadPanels.Entities\\Entities\\ViewDBEntities.cs",
+              "ToolTip": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Entities\\Entities\\ViewDBEntities.cs",
+              "RelativeToolTip": "Pawel.LoadPanels.Entities\\Entities\\ViewDBEntities.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:59:45.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ViewsController.cs",
+              "DocumentMoniker": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Controllers\\Controllers\\ViewsController.cs",
+              "RelativeDocumentMoniker": "Pawel.LoadPanels.Controllers\\Controllers\\ViewsController.cs",
+              "ToolTip": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Controllers\\Controllers\\ViewsController.cs",
+              "RelativeToolTip": "Pawel.LoadPanels.Controllers\\Controllers\\ViewsController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:56:43.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ViewDto.cs",
+              "DocumentMoniker": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Contracts\\ViewDtos\\ViewDto.cs",
+              "RelativeDocumentMoniker": "Pawel.LoadPanels.Contracts\\ViewDtos\\ViewDto.cs",
+              "ToolTip": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Contracts\\ViewDtos\\ViewDto.cs",
+              "RelativeToolTip": "Pawel.LoadPanels.Contracts\\ViewDtos\\ViewDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:58:11.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ViewsHandler.cs",
+              "DocumentMoniker": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Handlers\\Handlers\\ViewsHandler.cs",
+              "RelativeDocumentMoniker": "Pawel.LoadPanels.Handlers\\Handlers\\ViewsHandler.cs",
+              "ToolTip": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Handlers\\Handlers\\ViewsHandler.cs",
+              "RelativeToolTip": "Pawel.LoadPanels.Handlers\\Handlers\\ViewsHandler.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAuwCEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T22:59:35.97Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pawel.LoadPanels.DBConnect.csproj",
+              "DocumentMoniker": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.DBConnect\\Pawel.LoadPanels.DBConnect.csproj",
+              "RelativeDocumentMoniker": "Pawel.LoadPanels.DBConnect\\Pawel.LoadPanels.DBConnect.csproj",
+              "ToolTip": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.DBConnect\\Pawel.LoadPanels.DBConnect.csproj",
+              "RelativeToolTip": "Pawel.LoadPanels.DBConnect\\Pawel.LoadPanels.DBConnect.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T22:45:46.649Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pawel.LoadPanels.Controllers.csproj",
+              "DocumentMoniker": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Controllers\\Pawel.LoadPanels.Controllers.csproj",
+              "RelativeDocumentMoniker": "Pawel.LoadPanels.Controllers\\Pawel.LoadPanels.Controllers.csproj",
+              "ToolTip": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Controllers\\Pawel.LoadPanels.Controllers.csproj",
+              "RelativeToolTip": "Pawel.LoadPanels.Controllers\\Pawel.LoadPanels.Controllers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T22:45:26.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pawel.LoadPanels.Contracts.csproj",
+              "DocumentMoniker": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Contracts\\Pawel.LoadPanels.Contracts.csproj",
+              "RelativeDocumentMoniker": "Pawel.LoadPanels.Contracts\\Pawel.LoadPanels.Contracts.csproj",
+              "ToolTip": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Contracts\\Pawel.LoadPanels.Contracts.csproj",
+              "RelativeToolTip": "Pawel.LoadPanels.Contracts\\Pawel.LoadPanels.Contracts.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T22:45:24.754Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Pawel.LoadPanels.Handlers.csproj",
+              "DocumentMoniker": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Handlers\\Pawel.LoadPanels.Handlers.csproj",
+              "RelativeDocumentMoniker": "Pawel.LoadPanels.Handlers\\Pawel.LoadPanels.Handlers.csproj",
+              "ToolTip": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Handlers\\Pawel.LoadPanels.Handlers.csproj",
+              "RelativeToolTip": "Pawel.LoadPanels.Handlers\\Pawel.LoadPanels.Handlers.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T22:46:03.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Pawel.LoadPanels.Entities.csproj",
+              "DocumentMoniker": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Entities\\Pawel.LoadPanels.Entities.csproj",
+              "RelativeDocumentMoniker": "Pawel.LoadPanels.Entities\\Pawel.LoadPanels.Entities.csproj",
+              "ToolTip": "C:\\Users\\pawel\\Documents\\Pawel.LoadPanels.Process\\Pawel.LoadPanels.Entities\\Pawel.LoadPanels.Entities.csproj",
+              "RelativeToolTip": "Pawel.LoadPanels.Entities\\Pawel.LoadPanels.Entities.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-23T22:46:01.841Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

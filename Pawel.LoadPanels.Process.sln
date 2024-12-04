@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pawel.LoadPanels.Contracts", "Pawel.LoadPanels.Contracts\Pawel.LoadPanels.Contracts.csproj", "{E60181A7-161A-413D-94AA-6B7C9301823D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pawel.LoadPanels.Controllers", "Pawel.LoadPanels.Controllers\Pawel.LoadPanels.Controllers.csproj", "{25903C83-6DC3-4DF1-9BA8-F20DEE01A578}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pawel.LoadPanels.DBConnect", "Pawel.LoadPanels.DBConnect\Pawel.LoadPanels.DBConnect.csproj", "{E298411E-F76A-4F2B-AEC6-10369710011B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pawel.LoadPanels.Entities", "Pawel.LoadPanels.Entities\Pawel.LoadPanels.Entities.csproj", "{2A91442E-44C2-4606-A370-0E901E2A51C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pawel.LoadPanels.Handlers", "Pawel.LoadPanels.Handlers\Pawel.LoadPanels.Handlers.csproj", "{FAE54E79-E151-4C8F-BC3B-A5A929B43298}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pawel.LoadPanels.Process", "Pawel.LoadPanels.Process\Pawel.LoadPanels.Process.csproj", "{F907CAF1-221E-4E3E-97E4-06E9F5554A76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E60181A7-161A-413D-94AA-6B7C9301823D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E60181A7-161A-413D-94AA-6B7C9301823D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E60181A7-161A-413D-94AA-6B7C9301823D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E60181A7-161A-413D-94AA-6B7C9301823D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{25903C83-6DC3-4DF1-9BA8-F20DEE01A578}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{25903C83-6DC3-4DF1-9BA8-F20DEE01A578}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{25903C83-6DC3-4DF1-9BA8-F20DEE01A578}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{25903C83-6DC3-4DF1-9BA8-F20DEE01A578}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E298411E-F76A-4F2B-AEC6-10369710011B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E298411E-F76A-4F2B-AEC6-10369710011B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E298411E-F76A-4F2B-AEC6-10369710011B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E298411E-F76A-4F2B-AEC6-10369710011B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A91442E-44C2-4606-A370-0E901E2A51C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A91442E-44C2-4606-A370-0E901E2A51C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A91442E-44C2-4606-A370-0E901E2A51C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A91442E-44C2-4606-A370-0E901E2A51C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAE54E79-E151-4C8F-BC3B-A5A929B43298}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAE54E79-E151-4C8F-BC3B-A5A929B43298}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAE54E79-E151-4C8F-BC3B-A5A929B43298}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAE54E79-E151-4C8F-BC3B-A5A929B43298}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F907CAF1-221E-4E3E-97E4-06E9F5554A76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F907CAF1-221E-4E3E-97E4-06E9F5554A76}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F907CAF1-221E-4E3E-97E4-06E9F5554A76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F907CAF1-221E-4E3E-97E4-06E9F5554A76}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB771BA7-2065-4DC2-8B8D-AB3776E6C6A3}
+	EndGlobalSection
+EndGlobal
